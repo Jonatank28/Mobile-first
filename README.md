@@ -10,7 +10,7 @@ Foi disponibilizado um link no <strong>Figma</strong> onde nosso objetivo era re
 
 Link do desafio:  https://efficient-sloth-d85.notion.site/Mobile-first-3355d7df0aa24efcb4287f69b3859928
 
-Link do projeto: jonatank28.github.io/Criando-formul-rios/
+Link do projeto: https://jonatank28.github.io/Mobile-first/
 
 ## ⚙️ Tecnologias utilizadas
 
